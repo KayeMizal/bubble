@@ -5,7 +5,7 @@
         <!-- services section -->
         <section>
             <img src="" alt="">
-            <h2>Self service</h2>
+            <h2>Self service ni sya</h2>
             <p>Venmo hella actually photo booth yuccie, salvia wolf pinterest air plant tacos put a bird on it snackwave
                 pop</p>
         </section>
